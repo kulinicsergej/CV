@@ -1,2 +1,2 @@
 # CV
-`https://kulinicsergej.github.io/cv`
+`https://kulinicsergej.github.io/cv/`
