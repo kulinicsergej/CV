@@ -1,2 +1,2 @@
 # CV
-cv
+`https://kulinicsergej.github.io/cv`
