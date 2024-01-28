@@ -292,6 +292,7 @@ gap: 4px;
 }
 .Education__info{
   display: flex;
+  align-items: center;
   gap: 4px;
 }
 .E_h3{
